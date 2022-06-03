@@ -1,2 +1,2 @@
 # Primeiro Desafio Git/GitHub da DIO
-Repositório criado para o Desafio Git/GitHub
+Repositório criado para as anotações e exercícios
