@@ -15,7 +15,7 @@ Aqui estarei deixando todo meu aprendizado durante o curso Geração Tech Unimed
 
   Certificado - [Introdução ao Git e ao GitHub](https://www.dio.me/certificate/0C673B28/share)
 
-  Certificado - 
+  Certificado - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://www.dio.me/certificate/F918BCB8/share)
 
 - [ ] Módulo II - Fundamentos Web com HTML e CSS
 
